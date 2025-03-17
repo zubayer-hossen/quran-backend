@@ -49,9 +49,7 @@ exports.registerParticipant = async (req, res) => {
         <p style="font-size: 18px; color: #333; line-height: 1.6; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);">
           We look forward to your participation! Keep up the great work. 🚀
         </p>
-        <p style="font-size: 20px; color: #FF6F61; font-weight: bold; letter-spacing: 1px; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);">
-          Belun ure jaibe, aro onek kichu! 🌠
-        </p>
+        
         <a href="http://your-dashboard-link.com" style="display: inline-block; background-color: #FF6F61; color: #ffffff; padding: 18px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 30px; margin-top: 20px; transition: background-color 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
           Go to Dashboard
         </a>
@@ -59,7 +57,7 @@ exports.registerParticipant = async (req, res) => {
 
       <!-- Your Image and Personalized Thank You -->
       <div style="margin-top: 50px; text-align: center;">
-        <img src="https://i.ibb.co.com/9kXv4Z5G/b93d91b1-bfea-4d8e-9921-df4f13ce4cf4.png" alt="Your Image" style="width: 120px; height: 120px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <img src="https://pbs.twimg.com/profile_images/1578800825228746752/e7_2-Goa_400x400.jpg" alt="Your Image" style="width: 120px; height: 120px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
         <h4 style="color: #FF6F61; margin-top: 20px;">Thank You,</h4>
         <p style="font-size: 18px; color: #333;">This is your moment to shine! We're excited to have you with us in the Quran Competition. Keep up the hard work, and see you at the event! 🚀</p>
         <p style="font-size: 18px; color: #333; font-weight: bold;">- ${name}</p>
