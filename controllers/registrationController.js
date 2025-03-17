@@ -50,7 +50,7 @@ exports.registerParticipant = async (req, res) => {
           We look forward to your participation! Keep up the great work. 🚀
         </p>
         
-        <a href="http://your-dashboard-link.com" style="display: inline-block; background-color: #FF6F61; color: #ffffff; padding: 18px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 30px; margin-top: 20px; transition: background-color 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
+        <a href="https://ishascompetition.netlify.app/" style="display: inline-block; background-color: #FF6F61; color: #ffffff; padding: 18px 30px; font-size: 20px; font-weight: bold; text-decoration: none; border-radius: 30px; margin-top: 20px; transition: background-color 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);">
           Go to Dashboard
         </a>
       </div>
