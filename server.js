@@ -7,7 +7,7 @@ const app = express();
 
 // Fully configured CORS
 const corsOptions = {
-  origin: "http://localhost:5173", // Correct origin without trailing slash
+  origin: "https://ishascompetition.netlify.app", // Correct origin without trailing slash
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE", // Allowed HTTP methods
   allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
   credentials: true, // Allow credentials (cookies, authorization headers)
@@ -29,4 +29,4 @@ mongoose
 const registrationRoutes = require("./routes/registrationRoutes");
 app.use("/api/register", registrationRoutes);
 
-app.listen(7000, () => console.log("Server running on port 7000"));
+app.listen("https://quran-backend-b49d.onrender.com", () => console.log("Server running on render"));
